@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello World 👋
 
-## About me
+#### About me
 
-🎓 I am Artem Li, a Data Scientist at Thünen Institute for Forest Ecosystems. I have obtained a Master degree in environmental modelling from Brandenburg Tchnical University in 2021.
+🎓 I am workign as Data Scientist at Thünen Institute for Forest Ecosystems, where I am implementing machine learning solutions for solvimg complex problems of environmental modelling.
+
+
